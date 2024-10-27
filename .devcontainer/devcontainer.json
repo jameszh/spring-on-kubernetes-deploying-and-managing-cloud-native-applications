@@ -1,5 +1,8 @@
 {
   "name": "Codespace to perform Kubernetes Deep Dive for Developers Labs",
+    "features": {
+    "ghcr.io/devcontainers-contrib/features/kind:1": {}
+  },
   "hostRequirements": {
     "cpus": 4,
     "memory": "8gb",
